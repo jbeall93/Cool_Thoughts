@@ -12,7 +12,7 @@
 <li>A parasitic economic logic in which the production of goods and services is subordinated to a new global architecture of behavioral modifications; </li>
 <li>A rogue mutation of capitalism marked by concentrations of wealth, knowledge, and power unprecedented in human history; </li>
 <li>The foundational framework of a surveillance economy; </li>
-<li>As significant a threat to human nature in the twenty-first century as industrial capitalism was to the [natural world](Article3.html) in the nineteenth and twentieth; </li>
+<li>As significant a threat to human nature in the twenty-first century as industrial capitalism was to the [natural world](Article3.md) in the nineteenth and twentieth; </li>
 <li>The origin of a new instrumentarium power that asserts dominance over society and presents startling challenges to market democracy; </li>
 <li>A movement that aims to impose a new collective order based on total certainty; </li>
 <li>An expropriation of critical human rights that is best understood as a coup from above: an overthrow of the people’s sovereignty.</li>
